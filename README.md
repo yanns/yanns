@@ -1,6 +1,7 @@
 ## Hi there 👋
 
-Scala / rust dev
+I'm a Scala developer since a very long time.
+And since 2018, I'm very interesting in Rust, promoted it in my organization. I'm using it in production since 2023.
 
 Since 2020, I maintain [Sangria](https://github.com/sangria-graphql/sangria), a Scala implementation of GraphQL.
 
