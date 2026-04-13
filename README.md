@@ -31,3 +31,5 @@ Between 2012 and 2015, I organized the Play! framework meetups in Berlin.
 And between 2015 and 2022, I organized the Scala meetups.
 
 In 2014, I talked at Ping Conf about [how to use the cake pattern](https://github.com/yanns/TPA).
+
+I gave some sessions to [onboard new colleagues to Scala](https://github.com/yanns/scala-workshop).
