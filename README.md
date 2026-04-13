@@ -9,7 +9,7 @@ Since 2024, I also co-maintain [axum](https://github.com/tokio-rs/axum), a Rust 
 
 ### Before that
 
-In 2013, When I was using the [Play! framework](https://www.playframework.com/) in Scala, I was involved in [play2war](https://github.com/play2war/play2-war-plugin) to run a Play! applications inside a JEE container.
+In 2013, when I was using the [Play! framework](https://www.playframework.com/) in Scala, I was involved in [play2war](https://github.com/play2war/play2-war-plugin), a project enabling a Play! applications to run inside a JEE container. I contributed to the [asynchronous IO support](https://github.com/play2war/play2-war-plugin/pull/243).
 
 In 2014, I've also created the Scala libary [Play MockWS](https://github.com/leanovate/play-mockws) to easily write tests mocking dependant web-services. I'm very happy that this library found new maintainers and is still active.
 
